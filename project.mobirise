@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=Tenor+Sans:400"
       }
     ],
-    "uniqCompNum": 90,
+    "uniqCompNum": 95,
     "versionPublish": "5.6.8",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -64,7 +64,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "gallary.html": {
